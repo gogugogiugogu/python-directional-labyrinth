@@ -1,5 +1,4 @@
 
-# Game map blueprint
 map = {
     "start": {
         "description": "You are in a dark corridor. You can go north or east. [NSWE]",
